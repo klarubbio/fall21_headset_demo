@@ -1,0 +1,4 @@
+target,label,pos_x,pos_y,pos_z,rot_x,rot_y,rot_z,scale_x,scale_y,scale_z
+Buttons,Control Buttons,7.687,6.659,5.913,9.842,3.884,4.879,4.649,4.345,6.076
+Buttons,Cooler Control Buttons,9.527,8.604,4.008,1.543,4.514,3.81,3.224,3.622,2.372
+Panel,Glass Panel,6.046,7.228,1.11,6.248,5.585,4.781,1.388,3.07,3.665
