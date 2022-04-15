@@ -557,7 +557,7 @@ public class RayCast_Demo : MonoBehaviour
 
 		SetText();
 
-		/* eye gaze validation
+		/* eye gaze validation*/
 		if (Pvr_UnitySDKAPI.Controller.UPvr_GetKeyDown(1, Pvr_UnitySDKAPI.Pvr_KeyCode.B))
 		{
 			if (eyeSphere.activeSelf)
@@ -565,7 +565,7 @@ public class RayCast_Demo : MonoBehaviour
 			else
 				eyeSphere.SetActive(true);
 		}
-		*/
+		
 	}
 
 

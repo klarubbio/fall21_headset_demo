@@ -120,7 +120,7 @@ public class VideoProgress : MonoBehaviour
         }
 
 
-        /* eye gaze validation 
+        /* eye gaze validation*/ 
         if (Pvr_UnitySDKAPI.Controller.UPvr_GetKeyDown(1, Pvr_UnitySDKAPI.Pvr_KeyCode.B))
         {
             if (eyeSphere.activeSelf)
@@ -128,14 +128,15 @@ public class VideoProgress : MonoBehaviour
             else
                 eyeSphere.SetActive(true);
         }
-        */
+        
 
         /*skip functionality
          * 
-         * if(Pvr_UnitySDKAPI.Controller.UPvr_GetKeyLongPressed(0, Pvr_UnitySDKAPI.Pvr_KeyCode.X))
+         */
+        if(Pvr_UnitySDKAPI.Controller.UPvr_GetKeyLongPressed(0, Pvr_UnitySDKAPI.Pvr_KeyCode.X))
         {
             videoPlayer.Pause();
-        }*/
+        }
 
     }
 }
