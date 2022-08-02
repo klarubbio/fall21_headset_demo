@@ -62,9 +62,11 @@ License: CC 4.0
   - License: CC 4.0
 - Flickr NASA
   - License: Public Domain 
-  - Links: NASA panorams access as public domain: https://www.flickr.com/photos/165445115@N07/with/49209540743/
+  - Links: NASA panoramas access as public domain https://www.flickr.com/photos/165445115@N07/with/49209540743/
  
 ### Nuclear Training Simulation: 
 Image of the UF training reactor courtesy Andreas Enqvist and the UF Training Reactor (UFTR). Please cite the paper below if this 360 image is used in your own work.
+
 Citation: LaRubbio, K., Wright, J., David-John, B., Enqvist, A., & Jain, E. (2022). Who do you look like? Gaze-based authentication for workers in VR. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW) 2022.
+
 License: CC 4.0
